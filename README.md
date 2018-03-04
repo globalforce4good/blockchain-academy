@@ -10,7 +10,7 @@
 * 白话区块链
 * 价值历史
 3. 区块链究竟是如何运行的？
-* 点对点网络
+* [点对点网络](https://github.com/dashengSun/blockchain-academy/blob/master/blockchain-basics/ch3-how-does-blockchain-work/what-is-p2p-network.md)
 * 区块链密码学
 * 数字签名
 * 网络节点
