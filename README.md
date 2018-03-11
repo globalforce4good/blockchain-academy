@@ -11,7 +11,7 @@
 * 价值历史
 3. 区块链究竟是如何运行的？
 * [点对点网络](https://github.com/dashengSun/blockchain-academy/blob/master/blockchain-basics/ch3-how-does-blockchain-work/what-is-p2p-network.md)
-* 区块链密码学
+* [区块链密码学](https://github.com/dashengSun/blockchain-academy/blob/master/blockchain-basics/ch3-how-does-blockchain-work/explain-cryptography.md)
 * 数字签名
 * 网络节点
 * 哈希算法
